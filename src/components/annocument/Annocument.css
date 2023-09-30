@@ -1,0 +1,10 @@
+.annocument {
+  width: 100%;
+}
+
+.container .img-annocument {
+  width: 100%;
+  height: 80%;
+  object-fit: contain;
+  overflow: hidden;
+}
