@@ -19,7 +19,7 @@ const Pages = ({ productItems, addToCart, CartItem, shopItems }) => {
       {/* <NewArrivals /> */}
       <Feature />
       <Discount />
-      <Shop shopItems={shopItems} addToCart={addToCart} />
+      {/* <Shop shopItems={shopItems} addToCart={addToCart} /> */}
       {/* <Annocument /> */}
     </>
   );
